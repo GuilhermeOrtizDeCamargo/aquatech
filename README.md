@@ -1,24 +1,11 @@
-# Atividade de Flexbox
+# Atividade de AquaTech
 
-Repositório forkado da profª Clara. 
+Repositório forkado da profª Clara Faria. 
 
 <h1>
-    <a href="https://github.com/SPTech-Atividades-de-PI/flex-box-atividade-01">
-      <img align="center" width="80px" src="https://avatars.githubusercontent.com/u/46379117?v=4" img width="80" alt="{a} logo" class="img-fluid"></a>
+    <a href="https://github.com/SPTech-Atividades-de-PI/aquatech-somente-html">
+      <img align="center" width="80px" src="https://avatars.githubusercontent.com/u/110926406?v=4" img width="80" alt="{a} logo" class="img-fluid"></a>
 </h1>
-
-## Testando comandos de estilo:
-
-Adicione os estilos abaixo no código-fonte e veja o que acontece com os elementos.
-
-1. Altere a propriedade **justify-content** modificando o valor para **flex-end** (era "flex-start");
-1. Altere a propriedade **justify-content** modificando o valor para **space-between**;
-1. Altere a propriedade **justify-content** modificando o valor para **center**;
-1. Altere a propriedade **align-items** modificando o valor para **flex-end** (era "flex-start");
-1. Altere a propriedade **align-items** modificando o valor para **center**;
-1. Altere a propriedade **flex-direction** modificando o valor para **column** (era "row");
-
-## Agora é com você!
 
 Desafio: como será que eu faço para deixar os elementos da maneira abaixo?
 
