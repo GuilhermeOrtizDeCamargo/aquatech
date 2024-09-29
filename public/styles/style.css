@@ -26,6 +26,70 @@ body {
     margin: auto;
 }
 
+.login .container {
+    display: flex;
+    height: var(--tamanho-login);
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card-login {
+    background-color: #e5e5e5;
+    padding: 0 90px 20px 90px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    width: inherit;
+    font-weight: 700;
+    color: #df7695;
+}
+
+h2 {
+    color: #df7695;
+    font-weight: 750;
+}
+
+button  {
+    background-color: #ec145b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 33px;
+}
+
+.card-cadastro {
+    background-color: #e5e5e5;
+    padding: 0 90px 20px 90px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.campo {
+    width: inherit;
+}
+
+.campo input {
+    width: inherit;
+    text-align: center;
+    border-radius: 5px;
+    padding: 6px 0 6px 0;
+    border: 2px solid #54b5c3;
+
+}
+
 .header .container {
     justify-content: space-between;
     align-items: center;
@@ -120,4 +184,9 @@ body {
 
 .version {
     font-size: 15px;
+}
+
+.login {
+    background-image: url(../assets/imgs/bg-jelly-fish-para-home.png);
+    background-size: 105%;
 }
