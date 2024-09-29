@@ -1,4 +1,4 @@
-# Atividade de AquaTech
+# Atividade de CSS da AquaTech
 
 Repositório forkado da profª Clara Faria. 
 
